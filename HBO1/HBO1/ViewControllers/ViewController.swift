@@ -9,12 +9,15 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+   
+    
   
+
     @IBOutlet weak var emailText: UITextField!
     @IBOutlet weak var pwText: UITextField!
     @IBOutlet weak var signInBtn: UIButton!
     @IBOutlet weak var emailTextView: UIView!
+    @IBOutlet weak var buttonView: UIView!
     
     @IBOutlet weak var pwTextView: UIView!
     
@@ -24,6 +27,8 @@ class ViewController: UIViewController {
         emailTextView.clipsToBounds=true;
         pwTextView.layer.cornerRadius=10;
         pwTextView.clipsToBounds=true;
+        buttonView.layer.cornerRadius=10;
+        buttonView.clipsToBounds=true;
         
     }
 

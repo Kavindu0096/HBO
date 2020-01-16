@@ -14,9 +14,7 @@
 		3138889F23CD97C1009B442A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3138889D23CD97C1009B442A /* LaunchScreen.storyboard */; };
 		313888AA23CD97C1009B442A /* HBO1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 313888A923CD97C1009B442A /* HBO1Tests.swift */; };
 		313888B523CD97C1009B442A /* HBO1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 313888B423CD97C1009B442A /* HBO1UITests.swift */; };
-		313888CA23CDA506009B442A /* 500722-hbo-now.png in Resources */ = {isa = PBXBuildFile; fileRef = 313888C923CDA506009B442A /* 500722-hbo-now.png */; };
-		313888CC23CDA58B009B442A /* hbo-now-logo-400x300jpg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 313888CB23CDA58B009B442A /* hbo-now-logo-400x300jpg.jpg */; };
-		313888CE23CDA631009B442A /* 12088e9194f1e9448ee958cca48e189d.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 313888CD23CDA631009B442A /* 12088e9194f1e9448ee958cca48e189d.jpeg */; };
+		F47E1F3E23D0348400588E25 /* hbo-now-logo-1024x258.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F47E1F3D23D0348400588E25 /* hbo-now-logo-1024x258.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,9 +48,7 @@
 		313888B023CD97C1009B442A /* HBO1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HBO1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		313888B423CD97C1009B442A /* HBO1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HBO1UITests.swift; sourceTree = "<group>"; };
 		313888B623CD97C1009B442A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		313888C923CDA506009B442A /* 500722-hbo-now.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "500722-hbo-now.png"; sourceTree = "<group>"; };
-		313888CB23CDA58B009B442A /* hbo-now-logo-400x300jpg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "hbo-now-logo-400x300jpg.jpg"; path = "../../../../../../../../Downloads/hbo-now-logo-400x300jpg.jpg"; sourceTree = "<group>"; };
-		313888CD23CDA631009B442A /* 12088e9194f1e9448ee958cca48e189d.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 12088e9194f1e9448ee958cca48e189d.jpeg; path = ../../../../../../../../Downloads/12088e9194f1e9448ee958cca48e189d.jpeg; sourceTree = "<group>"; };
+		F47E1F3D23D0348400588E25 /* hbo-now-logo-1024x258.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "hbo-now-logo-1024x258.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -159,9 +155,7 @@
 		313888C823CDA34F009B442A /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				313888CD23CDA631009B442A /* 12088e9194f1e9448ee958cca48e189d.jpeg */,
-				313888CB23CDA58B009B442A /* hbo-now-logo-400x300jpg.jpg */,
-				313888C923CDA506009B442A /* 500722-hbo-now.png */,
+				F47E1F3D23D0348400588E25 /* hbo-now-logo-1024x258.jpg */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -270,9 +264,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				313888CA23CDA506009B442A /* 500722-hbo-now.png in Resources */,
-				313888CE23CDA631009B442A /* 12088e9194f1e9448ee958cca48e189d.jpeg in Resources */,
-				313888CC23CDA58B009B442A /* hbo-now-logo-400x300jpg.jpg in Resources */,
+				F47E1F3E23D0348400588E25 /* hbo-now-logo-1024x258.jpg in Resources */,
 				3138889F23CD97C1009B442A /* LaunchScreen.storyboard in Resources */,
 				3138889C23CD97C1009B442A /* Assets.xcassets in Resources */,
 				3138889A23CD97B9009B442A /* Main.storyboard in Resources */,
